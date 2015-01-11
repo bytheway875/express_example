@@ -1,2 +1,2 @@
-h3. Express.JS Codeschool Sample App
+Express.JS Codeschool Sample App
 
