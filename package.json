@@ -1,0 +1,25 @@
+{
+  "name": "express_example",
+  "version": "1.0.0",
+  "description": "Examples from Code School express course",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/bytheway875/express_example"
+  },
+  "keywords": [
+    "example"
+  ],
+  "author": "Shannon Byrne (bytheway875)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bytheway875/express_example/issues"
+  },
+  "homepage": "https://github.com/bytheway875/express_example",
+  "dependencies": {
+    "body-parser": "^1.10.1"
+  }
+}
